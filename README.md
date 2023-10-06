@@ -1,2 +1,2 @@
 # Hotel-Management
-A Hotel Manager supervises work at all levels, plans activities, manages budgets and financial information, develops marketing strategies, communicates with customers, addresses maintenance issues, collaborates with external parties, and enforces health and safety standards.
+Revolutionize the hospitality industry with our cutting-edge hotel management project, offering seamless guest experiences, efficient operations, and data-driven insights to elevate your hotel's performance and guest satisfaction.
